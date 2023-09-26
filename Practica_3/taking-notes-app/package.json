@@ -1,0 +1,16 @@
+{
+  "name": "taking-notes-app",
+  "version": "1.0.0",
+  "description": "Practice #3: Application to take notes.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angel J. Mendoza.",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "node-fetch": "^3.3.2",
+    "yargs": "^17.7.2"
+  }
+}
